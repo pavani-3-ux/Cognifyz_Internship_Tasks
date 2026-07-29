@@ -109,3 +109,15 @@ Finding patterns and trends
 Interpreting analytical results
 Presenting data-driven insights
 Improving analytical thinking and problem-solving skills
+
+👩‍💻 Author
+
+Pavani
+
+Aspiring Data Analyst | Python | SQL | Data Analysis | Data Visualization
+
+📌 Conclusion
+
+This repository represents my practical learning journey during the Cognifyz Internship Program. The projects helped me strengthen my Data Analysis fundamentals and gain hands-on experience in transforming raw data into meaningful insights.
+
+I look forward to continuously improving my technical and analytical skills and working on more real-world Data Analytics projects. 🚀📊
